@@ -30,10 +30,10 @@ The dashboard helps HR and management teams make **data-driven decisions** regar
 
 ## 📸 Dashboard Snapshots
 **Overview**  
-!(images/termination_by_year.png)
+![Overview](https://github.com/Sugam-100/HR-Analytics-Dashboard/blob/main/HR%20Dashboard%20Snapshort%201.png)
 
 **Detailed**  
-!(images/workforce_citizenship.png)
+![Detailed](https://github.com/Sugam-100/HR-Analytics-Dashboard/blob/main/HR%20Dashboard%20Snapshort%202.png)
 
 
 
